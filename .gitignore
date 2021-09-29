@@ -122,3 +122,6 @@ src/pages/de/science/**
 src/pages/en/science/**
 !src/pages/de/science/index.html
 !src/pages/en/science/index.html
+!src/pages/de/science/analyse/index.html
+!src/pages/en/science/analyse/index.html
+
